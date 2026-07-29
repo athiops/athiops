@@ -102,21 +102,21 @@ def board_to_markdown(board):
     markdown = ""
 
     images = {
-        "r": "img/black/rook.svg",
-        "n": "img/black/knight.svg",
-        "b": "img/black/bishop.svg",
-        "q": "img/black/queen.svg",
-        "k": "img/black/king.svg",
-        "p": "img/black/pawn.svg",
+        "r": "https://raw.githubusercontent.com/marcizhu/readme-chess/master/img/black/rook.svg",
+        "n": "https://raw.githubusercontent.com/marcizhu/readme-chess/master/img/black/knight.svg",
+        "b": "https://raw.githubusercontent.com/marcizhu/readme-chess/master/img/black/bishop.svg",
+        "q": "https://raw.githubusercontent.com/marcizhu/readme-chess/master/img/black/queen.svg",
+        "k": "https://raw.githubusercontent.com/marcizhu/readme-chess/master/img/black/king.svg",
+        "p": "https://raw.githubusercontent.com/marcizhu/readme-chess/master/img/black/pawn.svg",
 
-        "R": "img/white/rook.svg",
-        "N": "img/white/knight.svg",
-        "B": "img/white/bishop.svg",
-        "Q": "img/white/queen.svg",
-        "K": "img/white/king.svg",
-        "P": "img/white/pawn.svg",
+        "R": "https://raw.githubusercontent.com/marcizhu/readme-chess/master/img/white/rook.svg",
+        "N": "https://raw.githubusercontent.com/marcizhu/readme-chess/master/img/white/knight.svg",
+        "B": "https://raw.githubusercontent.com/marcizhu/readme-chess/master/img/white/bishop.svg",
+        "Q": "https://raw.githubusercontent.com/marcizhu/readme-chess/master/img/white/queen.svg",
+        "K": "https://raw.githubusercontent.com/marcizhu/readme-chess/master/img/white/king.svg",
+        "P": "https://raw.githubusercontent.com/marcizhu/readme-chess/master/img/white/pawn.svg",
 
-        ".": "img/blank.png"
+        ".": "https://raw.githubusercontent.com/marcizhu/readme-chess/master/img/blank.png"
     }
 
     # Write header in Markdown format
