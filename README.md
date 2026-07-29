@@ -50,14 +50,12 @@
 <div align="center">
   <table>
     <tr>
-      <td align="center"><img src="https://github-stats-extended.vercel.app/api?username=athiops&show_icons=true&theme=react&hide_border=true&bg_color=0d0000&title_color=ff0000&icon_color=ff0000&text_color=c9d1d9" width="400" alt="GitHub Stats" /></td>
-      <td align="center" rowspan="2"><img src="https://i.pinimg.com/originals/b5/1b/78/b51b78ece759ad75eb53164b38bf42c1.gif" width="300" alt="Hacker GIF" /></td>
+      <td align="center"><img src="https://github-stats-extended.vercel.app/api/top-langs/?username=athiops&layout=compact&theme=radical&hide_border=true" width="400" alt="Top Languages" /></td>
+      <td align="center"><img src="https://github-stats-extended.vercel.app/api?username=athiops&show_icons=true&theme=radical&hide_border=true" width="400" alt="GitHub Stats" /></td>
     </tr>
     <tr>
-      <td align="center"><img src="https://streak-stats.demolab.com/?user=athiops&theme=highcontrast&hide_border=true&background=0d0000&ring=ff0000&fire=ff0000&currStreakLabel=ff0000" width="400" alt="GitHub Streak" /></td>
-    </tr>
-    <tr>
-      <td align="center" colspan="2"><img src="https://github-stats-extended.vercel.app/api/top-langs/?username=athiops&layout=compact&theme=react&hide_border=true&bg_color=0d0000&title_color=ff0000&text_color=c9d1d9" width="400" alt="Top Languages" /></td>
+      <td align="center"><img src="https://streak-stats.demolab.com/?user=athiops&theme=radical&hide_border=true" width="400" alt="GitHub Streak" /></td>
+      <td align="center"><img src="https://i.pinimg.com/originals/b5/1b/78/b51b78ece759ad75eb53164b38bf42c1.gif" width="300" alt="Hacker GIF" /></td>
     </tr>
   </table>
 </div>
