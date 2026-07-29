@@ -81,7 +81,7 @@
       <td align="center"><img src="https://github-stats-extended.vercel.app/api?username=athiops&show_icons=true&theme=radical&hide_border=true" width="400" alt="GitHub Stats" /></td>
     </tr>
     <tr>
-      <td align="center"><img src="https://streak-stats.demolab.com/?user=athiops&theme=radical&hide_border=true" width="400" alt="GitHub Streak" /></td>
+      <td align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=athiops&theme=radical&hide_border=true" width="400" alt="GitHub Streak" /></td>
       <td align="center"><img src="https://raw.githubusercontent.com/athiops/athiops/output/github-contribution-grid-snake.svg" width="400" alt="Contribution Snake" /></td>
     </tr>
   </table>
@@ -98,6 +98,7 @@
 <div align="center">
 
 <!-- BEGIN CHESS BOARD -->
+
 |   | H | G | F | E | D | C | B | A |   |
 |---|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 | **1** | <img src="img/white/rook.svg" width="50"> | <img src="img/white/knight.svg" width="50"> | <img src="img/white/bishop.svg" width="50"> | <img src="img/white/king.svg" width="50"> | <img src="img/white/queen.svg" width="50"> | <img src="img/white/bishop.svg" width="50"> | <img src="img/white/knight.svg" width="50"> | <img src="img/white/rook.svg" width="50"> | **1** |
@@ -116,6 +117,7 @@
 <details>
   <summary>Click here to choose your move!</summary>
 <!-- BEGIN MOVES LIST -->
+
 |  FROM  | TO (Just click a link!) |
 | :----: | :---------------------- |
 | **A7** | [A5](https://github.com/athiops/athiops/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Chess%3A+Move+A7+to+A5), [A6](https://github.com/athiops/athiops/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Chess%3A+Move+A7+to+A6) |
