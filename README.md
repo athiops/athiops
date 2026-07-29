@@ -1,76 +1,79 @@
 <div align="center">
 
-<!-- Animated hacker-style typing header -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=Hi+There%2C+I'm+Athiops;Welcome+to+my+terminal;Building+cool+stuff+with+code;git+push+origin+main;ACCESS+GRANTED" alt="Typing SVG" />
+<!-- Modern Hero Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF1493,100:00FFFF&height=250&section=header&text=Hello,%20I'm%20Athiops!&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Building%20the%20future%20with%20Code&descAlignY=55&descAlign=62" width="100%"/>
 
-<br/>
+<!-- Typing SVG -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=git+push+origin+main;Compiling+ideas+into+code...;ACCESS+GRANTED" alt="Typing SVG" />
 
-![Profile Views](https://komarev.com/ghpvc/?username=athiops&color=ff0000&style=flat-square&label=TERMINAL+VISITS)
-![GitHub followers](https://img.shields.io/github/followers/athiops?color=ff0000&style=flat-square&label=FOLLOWERS)
-![GitHub stars](https://img.shields.io/github/stars/athiops?color=ff0000&style=flat-square&label=STARS)
+<br/><br/>
+
+<!-- Profile Badges -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=athiops&color=ff1493&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/athiops?color=00ffff&style=for-the-badge&label=FOLLOWERS" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/athiops?color=ff1493&style=for-the-badge&label=STARS" alt="Stars" />
+</p>
 
 </div>
 
----
+<br/>
 
-### `$ whoami`
+<h3 align="center">👨‍💻 About Me</h3>
 
-```bash
-> Name       : Athiops
-> Status     : Compiling ideas into code...
-> Location   : /root/earth
-> Language   : Human, Python, JavaScript
-> Fun Fact   : I debug my life the same way I debug my code — one print statement at a time
-```
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <img src="https://media.giphy.com/media/VgPptRu3quuVZWnHzX/giphy.gif" width="300" alt="Hacker GIF"/>
+      </td>
+      <td width="50%">
+        <ul>
+          <li>🌍 Based in <b>Earth</b></li>
+          <li>🗣️ Fluent in <b>Human, Python, JavaScript</b></li>
+          <li>🚀 Currently <b>Compiling ideas into code...</b></li>
+          <li>💡 <b>Fun Fact:</b> I debug my life the same way I debug my code — one print statement at a time.</li>
+        </ul>
+      </td>
+    </tr>
+  </table>
+</div>
 
----
+<br/>
 
-### 💻 Technical Skills:
+<h3 align="center">💻 Technical Skills</h3>
+<div align="center">
+  <p align="center">
+    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+    <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+    <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+    <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+    <br/>
+    <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
+    <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
+    <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter" />
+    <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+    <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+    <br/>
+    <img src="https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+    <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+    <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="Amazon AWS" />
+    <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud" />
+    <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+    <br/>
+    <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+    <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
+    <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code" />
+  </p>
+</div>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
-  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter" />
-  <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery" />
-  <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
-  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js" />
-  <img src="https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Oracle-F00000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
-  <img src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" />
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="Amazon AWS" />
-  <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud" />
-  <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" alt="Firebase" />
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
-  <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino" />
-  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/opencv-%235C3EE8.svg?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
-  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva" />
-  <img src="https://img.shields.io/badge/WordPress-%23117B85.svg?style=for-the-badge&logo=WordPress&logoColor=white" alt="WordPress" />
-  <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white" alt="Apache" />
-</p>
+<br/>
 
----
-
-### `$ ./github_stats.sh`
-
+<h3 align="center">📊 GitHub Stats</h3>
 <div align="center">
   <table>
     <tr>
@@ -79,41 +82,20 @@
     </tr>
     <tr>
       <td align="center"><img src="https://streak-stats.demolab.com/?user=athiops&theme=radical&hide_border=true" width="400" alt="GitHub Streak" /></td>
-      <td align="center"><img src="https://i.pinimg.com/originals/b5/1b/78/b51b78ece759ad75eb53164b38bf42c1.gif" width="300" alt="Hacker GIF" /></td>
+      <td align="center"><img src="https://raw.githubusercontent.com/athiops/athiops/output/github-contribution-grid-snake.svg" width="400" alt="Contribution Snake" /></td>
     </tr>
   </table>
 </div>
 
----
+<br/>
 
-### `$ ./github_trophies.sh`
-
+<h3 align="center">♞ Let's Play Chess! ♖</h3>
 <div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=athiops&theme=radical&no-frame=true&no-bg=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
-
+  <p>Wouldn’t you prefer a good game of chess? I could really get on BOARD with more games on profiles. I'd definitely CHECK them all out...</p>
+  <p><b>It's your turn to play! Move a <!-- BEGIN TURN -->white<!-- END TURN --> piece.</b></p>
 </div>
 
----
-
-### `$ ./contribution_snake.sh`
-
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/athiops/athiops/output/github-contribution-grid-snake.svg" alt="Contribution Snake animation" />
-
-</div>
-
-> This snake eats your contribution graph 🐍 — it's auto-generated every day by the GitHub Action in `.github/workflows/snake.yml`.
-
----
-
-### `$ ./play_chess.sh`
-
-> Wouldn’t you prefer a good game of chess? ♞ ♖
-> I could really get on BOARD with more games on profiles. I'd definitely CHECK them all out...
-
-**It's your turn to play! Move a <!-- BEGIN TURN -->white<!-- END TURN --> piece.**
 
 <!-- BEGIN CHESS BOARD -->
 
@@ -130,6 +112,8 @@
 |   | **A** | **B** | **C** | **D** | **E** | **F** | **G** | **H** |   |
 
 <!-- END CHESS BOARD -->
+
+<br/>
 
 <details>
   <summary>Click here to choose your move!</summary>
@@ -150,7 +134,7 @@
 
 <!-- END MOVES LIST -->
 </details>
-
+<br/>
 <details>
   <summary>Last 5 moves in this game</summary>
 <!-- BEGIN LAST MOVES -->
@@ -164,7 +148,7 @@
 
 <!-- END LAST MOVES -->
 </details>
-
+<br/>
 <details>
   <summary>Top 10 players by moves across all games</summary>
 <!-- BEGIN TOP MOVES -->
@@ -178,12 +162,10 @@
 <!-- END TOP MOVES -->
 </details>
 
----
+</div>
+
+<br/>
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=footer" width="100%"/>
-
-**`connection terminated...`**
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFFF,100:FF1493&height=120&section=footer" width="100%"/>
 </div>
