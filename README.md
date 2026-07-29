@@ -26,7 +26,7 @@
   <table>
     <tr>
       <td align="center" width="50%">
-        <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="300" alt="Hacker GIF"/>
+        <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="300" alt="Hacker Glitch GIF"/>
       </td>
       <td width="50%">
         <ul>
