@@ -50,14 +50,14 @@
 <div align="center">
   <table>
     <tr>
-      <td align="center"><img src="https://github-readme-stats.vercel.app/api?username=athiops&show_icons=true&theme=react&hide_border=true&bg_color=0d0000&title_color=ff0000&icon_color=ff0000&text_color=c9d1d9" width="400" alt="GitHub Stats" /></td>
-      <td align="center" rowspan="2"><img src="https://i.pinimg.com/originals/b5/1b/78/b51b78ece759ad75eb53164b38bf42c1.gif" width="300" alt="Hacker GIF" /></td>
+      <td align="center"><img src="https://github-readme-stats.vercel.app/api?username=athiops&amp;show_icons=true&amp;theme=react&amp;hide_border=true&amp;bg_color=0d0000&amp;title_color=ff0000&amp;icon_color=ff0000&amp;text_color=c9d1d9" width="400" alt="GitHub Stats" /></td>
+      <td align="center" rowspan="2"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGI0NmNhNTFmNDBiMDFlMzFkMWIxNTE2NjYxZWNjNTEzNDVlODJlYyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/YQitE4YNQBroC1pL6c/giphy.gif" width="300" alt="Hacker GIF" /></td>
     </tr>
     <tr>
-      <td align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=athiops&theme=highcontrast&hide_border=true&background=0d0000&ring=ff0000&fire=ff0000&currStreakLabel=ff0000" width="400" alt="GitHub Streak" /></td>
+      <td align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=athiops&amp;theme=highcontrast&amp;hide_border=true&amp;background=0d0000&amp;ring=ff0000&amp;fire=ff0000&amp;currStreakLabel=ff0000" width="400" alt="GitHub Streak" /></td>
     </tr>
     <tr>
-      <td align="center" colspan="2"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=athiops&layout=compact&theme=react&hide_border=true&bg_color=0d0000&title_color=ff0000&text_color=c9d1d9" width="400" alt="Top Languages" /></td>
+      <td align="center" colspan="2"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=athiops&amp;layout=compact&amp;theme=react&amp;hide_border=true&amp;bg_color=0d0000&amp;title_color=ff0000&amp;text_color=c9d1d9" width="400" alt="Top Languages" /></td>
     </tr>
   </table>
 </div>
