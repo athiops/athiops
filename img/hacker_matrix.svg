@@ -1,0 +1,357 @@
+<svg width="300" height="300" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+        <style>
+            .code { font-family: monospace; font-size: 14px; font-weight: bold; fill: #0F0; }
+            .glow { filter: drop-shadow(0 0 5px #0F0); }
+        </style>
+    </defs>
+    <!-- No background to keep it transparent -->
+
+    <g class="code glow">
+        <text x="10" y="-300">
+            <tspan x="10" dy="15">1</tspan>
+            <tspan x="10" dy="15">1</tspan>
+            <tspan x="10" dy="15">0</tspan>
+            <tspan x="10" dy="15">0</tspan>
+            <tspan x="10" dy="15">1</tspan>
+            <tspan x="10" dy="15">1</tspan>
+            <tspan x="10" dy="15">0</tspan>
+            <tspan x="10" dy="15">1</tspan>
+            <tspan x="10" dy="15">0</tspan>
+            <tspan x="10" dy="15">0</tspan>
+            <tspan x="10" dy="15">1</tspan>
+            <tspan x="10" dy="15">0</tspan>
+            <tspan x="10" dy="15">1</tspan>
+            <tspan x="10" dy="15">0</tspan>
+            <tspan x="10" dy="15">1</tspan>
+            <tspan x="10" dy="15">0</tspan>
+            <tspan x="10" dy="15">1</tspan>
+            <tspan x="10" dy="15">1</tspan>
+
+        <animateTransform attributeName="transform" type="translate" from="0 -300" to="0 600" dur="2.4493361273190413s" begin="-0.9103632931152272s" repeatCount="indefinite" />
+        </text>
+    </g>
+
+    <g class="code glow">
+        <text x="30" y="-300">
+            <tspan x="30" dy="15">0</tspan>
+            <tspan x="30" dy="15">0</tspan>
+            <tspan x="30" dy="15">0</tspan>
+            <tspan x="30" dy="15">1</tspan>
+            <tspan x="30" dy="15">0</tspan>
+            <tspan x="30" dy="15">0</tspan>
+            <tspan x="30" dy="15">1</tspan>
+            <tspan x="30" dy="15">0</tspan>
+            <tspan x="30" dy="15">0</tspan>
+            <tspan x="30" dy="15">0</tspan>
+            <tspan x="30" dy="15">1</tspan>
+            <tspan x="30" dy="15">0</tspan>
+            <tspan x="30" dy="15">0</tspan>
+            <tspan x="30" dy="15">0</tspan>
+            <tspan x="30" dy="15">0</tspan>
+            <tspan x="30" dy="15">1</tspan>
+
+        <animateTransform attributeName="transform" type="translate" from="0 -300" to="0 600" dur="3.574600064048916s" begin="-0.08806531549653551s" repeatCount="indefinite" />
+        </text>
+    </g>
+
+    <g class="code glow">
+        <text x="50" y="-300">
+            <tspan x="50" dy="15">0</tspan>
+            <tspan x="50" dy="15">1</tspan>
+            <tspan x="50" dy="15">0</tspan>
+            <tspan x="50" dy="15">1</tspan>
+            <tspan x="50" dy="15">0</tspan>
+            <tspan x="50" dy="15">0</tspan>
+            <tspan x="50" dy="15">0</tspan>
+            <tspan x="50" dy="15">0</tspan>
+            <tspan x="50" dy="15">1</tspan>
+            <tspan x="50" dy="15">1</tspan>
+            <tspan x="50" dy="15">0</tspan>
+            <tspan x="50" dy="15">1</tspan>
+            <tspan x="50" dy="15">0</tspan>
+            <tspan x="50" dy="15">0</tspan>
+            <tspan x="50" dy="15">0</tspan>
+            <tspan x="50" dy="15">1</tspan>
+            <tspan x="50" dy="15">0</tspan>
+            <tspan x="50" dy="15">1</tspan>
+            <tspan x="50" dy="15">1</tspan>
+            <tspan x="50" dy="15">1</tspan>
+            <tspan x="50" dy="15">0</tspan>
+            <tspan x="50" dy="15">0</tspan>
+            <tspan x="50" dy="15">0</tspan>
+            <tspan x="50" dy="15">1</tspan>
+            <tspan x="50" dy="15">0</tspan>
+
+        <animateTransform attributeName="transform" type="translate" from="0 -300" to="0 600" dur="4.877020779252104s" begin="-3.6809781453442825s" repeatCount="indefinite" />
+        </text>
+    </g>
+
+    <g class="code glow">
+        <text x="70" y="-300">
+            <tspan x="70" dy="15">1</tspan>
+            <tspan x="70" dy="15">1</tspan>
+            <tspan x="70" dy="15">1</tspan>
+            <tspan x="70" dy="15">0</tspan>
+            <tspan x="70" dy="15">0</tspan>
+            <tspan x="70" dy="15">0</tspan>
+            <tspan x="70" dy="15">0</tspan>
+            <tspan x="70" dy="15">1</tspan>
+            <tspan x="70" dy="15">1</tspan>
+            <tspan x="70" dy="15">0</tspan>
+            <tspan x="70" dy="15">0</tspan>
+
+        <animateTransform attributeName="transform" type="translate" from="0 -300" to="0 600" dur="3.33643537956548s" begin="-0.6699232280762157s" repeatCount="indefinite" />
+        </text>
+    </g>
+
+    <g class="code glow">
+        <text x="90" y="-300">
+            <tspan x="90" dy="15">0</tspan>
+            <tspan x="90" dy="15">0</tspan>
+            <tspan x="90" dy="15">0</tspan>
+            <tspan x="90" dy="15">1</tspan>
+            <tspan x="90" dy="15">1</tspan>
+            <tspan x="90" dy="15">1</tspan>
+            <tspan x="90" dy="15">1</tspan>
+            <tspan x="90" dy="15">0</tspan>
+            <tspan x="90" dy="15">0</tspan>
+            <tspan x="90" dy="15">1</tspan>
+            <tspan x="90" dy="15">0</tspan>
+            <tspan x="90" dy="15">0</tspan>
+            <tspan x="90" dy="15">1</tspan>
+            <tspan x="90" dy="15">1</tspan>
+
+        <animateTransform attributeName="transform" type="translate" from="0 -300" to="0 600" dur="3.15297962387915s" begin="-1.848454774017823s" repeatCount="indefinite" />
+        </text>
+    </g>
+
+    <g class="code glow">
+        <text x="110" y="-300">
+            <tspan x="110" dy="15">0</tspan>
+            <tspan x="110" dy="15">0</tspan>
+            <tspan x="110" dy="15">1</tspan>
+            <tspan x="110" dy="15">0</tspan>
+            <tspan x="110" dy="15">1</tspan>
+            <tspan x="110" dy="15">0</tspan>
+            <tspan x="110" dy="15">0</tspan>
+            <tspan x="110" dy="15">1</tspan>
+            <tspan x="110" dy="15">0</tspan>
+            <tspan x="110" dy="15">0</tspan>
+            <tspan x="110" dy="15">0</tspan>
+            <tspan x="110" dy="15">1</tspan>
+            <tspan x="110" dy="15">1</tspan>
+            <tspan x="110" dy="15">1</tspan>
+            <tspan x="110" dy="15">0</tspan>
+            <tspan x="110" dy="15">1</tspan>
+
+        <animateTransform attributeName="transform" type="translate" from="0 -300" to="0 600" dur="4.78233126263059s" begin="-3.148973334019928s" repeatCount="indefinite" />
+        </text>
+    </g>
+
+    <g class="code glow">
+        <text x="130" y="-300">
+            <tspan x="130" dy="15">1</tspan>
+            <tspan x="130" dy="15">0</tspan>
+            <tspan x="130" dy="15">1</tspan>
+            <tspan x="130" dy="15">1</tspan>
+            <tspan x="130" dy="15">1</tspan>
+            <tspan x="130" dy="15">0</tspan>
+            <tspan x="130" dy="15">1</tspan>
+            <tspan x="130" dy="15">0</tspan>
+            <tspan x="130" dy="15">1</tspan>
+            <tspan x="130" dy="15">0</tspan>
+            <tspan x="130" dy="15">1</tspan>
+            <tspan x="130" dy="15">1</tspan>
+            <tspan x="130" dy="15">1</tspan>
+            <tspan x="130" dy="15">0</tspan>
+            <tspan x="130" dy="15">0</tspan>
+            <tspan x="130" dy="15">1</tspan>
+            <tspan x="130" dy="15">1</tspan>
+            <tspan x="130" dy="15">0</tspan>
+            <tspan x="130" dy="15">1</tspan>
+            <tspan x="130" dy="15">1</tspan>
+            <tspan x="130" dy="15">0</tspan>
+            <tspan x="130" dy="15">0</tspan>
+            <tspan x="130" dy="15">0</tspan>
+
+        <animateTransform attributeName="transform" type="translate" from="0 -300" to="0 600" dur="2.6581047605448602s" begin="-0.35726132323160464s" repeatCount="indefinite" />
+        </text>
+    </g>
+
+    <g class="code glow">
+        <text x="150" y="-300">
+            <tspan x="150" dy="15">1</tspan>
+            <tspan x="150" dy="15">0</tspan>
+            <tspan x="150" dy="15">1</tspan>
+            <tspan x="150" dy="15">0</tspan>
+            <tspan x="150" dy="15">0</tspan>
+            <tspan x="150" dy="15">0</tspan>
+            <tspan x="150" dy="15">1</tspan>
+            <tspan x="150" dy="15">0</tspan>
+            <tspan x="150" dy="15">1</tspan>
+            <tspan x="150" dy="15">0</tspan>
+            <tspan x="150" dy="15">0</tspan>
+            <tspan x="150" dy="15">1</tspan>
+            <tspan x="150" dy="15">0</tspan>
+            <tspan x="150" dy="15">1</tspan>
+            <tspan x="150" dy="15">1</tspan>
+            <tspan x="150" dy="15">1</tspan>
+            <tspan x="150" dy="15">0</tspan>
+            <tspan x="150" dy="15">0</tspan>
+
+        <animateTransform attributeName="transform" type="translate" from="0 -300" to="0 600" dur="2.364333964058762s" begin="-4.555695834565369s" repeatCount="indefinite" />
+        </text>
+    </g>
+
+    <g class="code glow">
+        <text x="170" y="-300">
+            <tspan x="170" dy="15">1</tspan>
+            <tspan x="170" dy="15">0</tspan>
+            <tspan x="170" dy="15">0</tspan>
+            <tspan x="170" dy="15">1</tspan>
+            <tspan x="170" dy="15">1</tspan>
+            <tspan x="170" dy="15">1</tspan>
+            <tspan x="170" dy="15">0</tspan>
+            <tspan x="170" dy="15">1</tspan>
+            <tspan x="170" dy="15">1</tspan>
+            <tspan x="170" dy="15">0</tspan>
+            <tspan x="170" dy="15">0</tspan>
+            <tspan x="170" dy="15">0</tspan>
+            <tspan x="170" dy="15">1</tspan>
+
+        <animateTransform attributeName="transform" type="translate" from="0 -300" to="0 600" dur="4.096758472491016s" begin="-4.425039084299866s" repeatCount="indefinite" />
+        </text>
+    </g>
+
+    <g class="code glow">
+        <text x="190" y="-300">
+            <tspan x="190" dy="15">1</tspan>
+            <tspan x="190" dy="15">0</tspan>
+            <tspan x="190" dy="15">1</tspan>
+            <tspan x="190" dy="15">1</tspan>
+            <tspan x="190" dy="15">1</tspan>
+            <tspan x="190" dy="15">1</tspan>
+            <tspan x="190" dy="15">1</tspan>
+            <tspan x="190" dy="15">1</tspan>
+            <tspan x="190" dy="15">0</tspan>
+            <tspan x="190" dy="15">0</tspan>
+            <tspan x="190" dy="15">0</tspan>
+            <tspan x="190" dy="15">1</tspan>
+            <tspan x="190" dy="15">0</tspan>
+            <tspan x="190" dy="15">1</tspan>
+
+        <animateTransform attributeName="transform" type="translate" from="0 -300" to="0 600" dur="2.312854749482156s" begin="-3.9364290808083524s" repeatCount="indefinite" />
+        </text>
+    </g>
+
+    <g class="code glow">
+        <text x="210" y="-300">
+            <tspan x="210" dy="15">0</tspan>
+            <tspan x="210" dy="15">1</tspan>
+            <tspan x="210" dy="15">0</tspan>
+            <tspan x="210" dy="15">1</tspan>
+            <tspan x="210" dy="15">1</tspan>
+            <tspan x="210" dy="15">1</tspan>
+            <tspan x="210" dy="15">1</tspan>
+            <tspan x="210" dy="15">0</tspan>
+            <tspan x="210" dy="15">1</tspan>
+            <tspan x="210" dy="15">0</tspan>
+            <tspan x="210" dy="15">1</tspan>
+
+        <animateTransform attributeName="transform" type="translate" from="0 -300" to="0 600" dur="2.758745421385611s" begin="-4.312260924754076s" repeatCount="indefinite" />
+        </text>
+    </g>
+
+    <g class="code glow">
+        <text x="230" y="-300">
+            <tspan x="230" dy="15">0</tspan>
+            <tspan x="230" dy="15">0</tspan>
+            <tspan x="230" dy="15">1</tspan>
+            <tspan x="230" dy="15">1</tspan>
+            <tspan x="230" dy="15">0</tspan>
+            <tspan x="230" dy="15">0</tspan>
+            <tspan x="230" dy="15">0</tspan>
+            <tspan x="230" dy="15">1</tspan>
+            <tspan x="230" dy="15">0</tspan>
+            <tspan x="230" dy="15">0</tspan>
+            <tspan x="230" dy="15">0</tspan>
+            <tspan x="230" dy="15">1</tspan>
+            <tspan x="230" dy="15">1</tspan>
+            <tspan x="230" dy="15">1</tspan>
+            <tspan x="230" dy="15">0</tspan>
+            <tspan x="230" dy="15">1</tspan>
+            <tspan x="230" dy="15">1</tspan>
+
+        <animateTransform attributeName="transform" type="translate" from="0 -300" to="0 600" dur="3.331680582756474s" begin="-2.2938551488148855s" repeatCount="indefinite" />
+        </text>
+    </g>
+
+    <g class="code glow">
+        <text x="250" y="-300">
+            <tspan x="250" dy="15">1</tspan>
+            <tspan x="250" dy="15">0</tspan>
+            <tspan x="250" dy="15">0</tspan>
+            <tspan x="250" dy="15">0</tspan>
+            <tspan x="250" dy="15">0</tspan>
+            <tspan x="250" dy="15">0</tspan>
+            <tspan x="250" dy="15">0</tspan>
+            <tspan x="250" dy="15">1</tspan>
+            <tspan x="250" dy="15">0</tspan>
+            <tspan x="250" dy="15">0</tspan>
+            <tspan x="250" dy="15">1</tspan>
+            <tspan x="250" dy="15">0</tspan>
+            <tspan x="250" dy="15">0</tspan>
+            <tspan x="250" dy="15">1</tspan>
+
+        <animateTransform attributeName="transform" type="translate" from="0 -300" to="0 600" dur="4.92740879272078s" begin="-2.1223903093323306s" repeatCount="indefinite" />
+        </text>
+    </g>
+
+    <g class="code glow">
+        <text x="270" y="-300">
+            <tspan x="270" dy="15">0</tspan>
+            <tspan x="270" dy="15">1</tspan>
+            <tspan x="270" dy="15">0</tspan>
+            <tspan x="270" dy="15">1</tspan>
+            <tspan x="270" dy="15">0</tspan>
+            <tspan x="270" dy="15">1</tspan>
+            <tspan x="270" dy="15">0</tspan>
+            <tspan x="270" dy="15">0</tspan>
+            <tspan x="270" dy="15">0</tspan>
+            <tspan x="270" dy="15">1</tspan>
+            <tspan x="270" dy="15">0</tspan>
+            <tspan x="270" dy="15">1</tspan>
+            <tspan x="270" dy="15">0</tspan>
+            <tspan x="270" dy="15">0</tspan>
+            <tspan x="270" dy="15">1</tspan>
+            <tspan x="270" dy="15">1</tspan>
+
+        <animateTransform attributeName="transform" type="translate" from="0 -300" to="0 600" dur="2.3189217196939502s" begin="-1.0658992601900785s" repeatCount="indefinite" />
+        </text>
+    </g>
+
+    <g class="code glow">
+        <text x="290" y="-300">
+            <tspan x="290" dy="15">1</tspan>
+            <tspan x="290" dy="15">1</tspan>
+            <tspan x="290" dy="15">1</tspan>
+            <tspan x="290" dy="15">0</tspan>
+            <tspan x="290" dy="15">0</tspan>
+            <tspan x="290" dy="15">1</tspan>
+            <tspan x="290" dy="15">0</tspan>
+            <tspan x="290" dy="15">0</tspan>
+            <tspan x="290" dy="15">0</tspan>
+            <tspan x="290" dy="15">0</tspan>
+            <tspan x="290" dy="15">1</tspan>
+            <tspan x="290" dy="15">0</tspan>
+            <tspan x="290" dy="15">0</tspan>
+            <tspan x="290" dy="15">1</tspan>
+            <tspan x="290" dy="15">0</tspan>
+            <tspan x="290" dy="15">1</tspan>
+            <tspan x="290" dy="15">0</tspan>
+
+        <animateTransform attributeName="transform" type="translate" from="0 -300" to="0 600" dur="2.5577130650823174s" begin="-1.52873978296303s" repeatCount="indefinite" />
+        </text>
+    </g>
+</svg>
