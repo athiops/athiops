@@ -26,7 +26,7 @@
   <table>
     <tr>
       <td align="center" width="50%">
-        <img src="https://media.giphy.com/media/VgPptRu3quuVZWnHzX/giphy.gif" width="300" alt="Hacker GIF"/>
+        <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="300" alt="Hacker GIF"/>
       </td>
       <td width="50%">
         <ul>
@@ -82,8 +82,7 @@
       <td align="center"><img src="https://github-stats-extended.vercel.app/api?username=athiops&show_icons=true&theme=radical&hide_border=true" width="400" alt="GitHub Stats" /></td>
     </tr>
     <tr>
-      <td align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=athiops&theme=radical&hide_border=true" width="400" alt="GitHub Streak" /></td>
-      <td align="center"><img src="https://raw.githubusercontent.com/athiops/athiops/output/github-contribution-grid-snake.svg" width="400" alt="Contribution Snake" /></td>
+      <td align="center" colspan="2"><img src="https://raw.githubusercontent.com/athiops/athiops/output/github-contribution-grid-snake.svg" width="800" alt="Contribution Snake" /></td>
     </tr>
   </table>
 </div>
