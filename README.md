@@ -13,6 +13,7 @@
   <img src="https://komarev.com/ghpvc/?username=athiops&color=8A2BE2&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/athiops?color=FFD700&style=for-the-badge&label=FOLLOWERS" alt="Followers" />
   <img src="https://img.shields.io/github/stars/athiops?color=8A2BE2&style=for-the-badge&label=STARS" alt="Stars" />
+  <a href="mailto:saathithya23@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 </div>
