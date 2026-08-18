@@ -77,7 +77,7 @@ def generate_moves_list(board):
         moves_dict[source].add(dest)
 
     # Write everything in Markdown format
-    markdown = ""
+    markdown = "\n"
 
     if board.is_game_over():
         issue_link = settings['issues']['link'].format(

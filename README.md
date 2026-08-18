@@ -116,6 +116,7 @@
 <details>
   <summary>Click here to choose your move!</summary>
 <!-- BEGIN MOVES LIST -->
+
 |  FROM  | TO (Just click a link!) |
 | :----: | :---------------------- |
 | **A1** | [A2](https://github.com/athiops/athiops/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Chess%3A+Move+A1+to+A2) |
