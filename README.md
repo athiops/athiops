@@ -101,15 +101,9 @@
     </tr>
   </table>
   <br/>
-  <table>
-    <tr>
-      <td align="center"><img src="https://github-stats-extended.vercel.app/api/top-langs/?username=athiops&layout=compact&theme=radical&hide_border=true" width="400" alt="Top Languages" /></td>
-      <td align="center"><img src="https://github-stats-extended.vercel.app/api?username=athiops&show_icons=true&theme=radical&hide_border=true" width="400" alt="GitHub Stats" /></td>
-    </tr>
-    <tr>
-      <td align="center" colspan="2"><img src="https://raw.githubusercontent.com/athiops/athiops/output/github-contribution-grid-snake.svg" width="800" alt="Contribution Snake" /></td>
-    </tr>
-  </table>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=athiops&layout=compact&theme=radical&hide_border=true" width="600" alt="Top Languages" />
+  <br/><br/>
+  <img src="https://raw.githubusercontent.com/athiops/athiops/output/github-contribution-grid-snake.svg" width="800" alt="Contribution Snake" />
 </div>
 
 <br/>
