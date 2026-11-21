@@ -84,8 +84,11 @@
       <td align="center"><b>3</b></td>
     </tr>
     <tr>
-      <td align="center"><b>🕒 Total Commits</b></td>
-      <td align="center"><b>500</b></td>
+      <td align="center" colspan="2">
+        <a href="https://gitshine.com/stats/athiops">
+          <img src="https://gitshine.com/card/athiops" alt="athiops GitHub statistics" />
+        </a>
+      </td>
     </tr>
     <tr>
       <td align="center"><b>🔀 Total PRs</b></td>
