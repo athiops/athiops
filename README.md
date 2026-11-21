@@ -42,26 +42,6 @@
 
 <br/>
 
-<h3 align="center">🚀 What I'm Building</h3>
-
-<div align="center">
-  <p><b>AI/ML • Full-Stack Engineering • Developer Tools</b></p>
-  <p>I’m a Computer Science student and builder focused on turning applied AI research and product ideas into useful software.</p>
-</div>
-
-| Project | Focus |
-| :-- | :-- |
-| [JARVIS-X](https://github.com/athiops/Self-Evolving-Multi-Model-AI-System) | Experimental federated-learning and adaptive-AI foundation |
-| [Hackathon Evaluation Portal](https://github.com/athiops/Hackathon-Evaluation-Portal) | Team, jury, scoring and evaluation workflows |
-| [AI Course Automation Bot](https://github.com/athiops/-AI-Course-Automation-Bot) | Browser-assisted learning and course workflows |
-| [Eldrion Website](https://github.com/athiops/ELDRION_web-) | Website and digital product work for Eldrion |
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/athithyasa/">LinkedIn</a> ·
-  <a href="https://github.com/athiops?tab=repositories">All repositories</a> ·
-  <a href="mailto:athithya@eldrion.in">Email</a>
-</p>
-
 <br/>
 
 <h3 align="center">💻 Technical Skills</h3>
