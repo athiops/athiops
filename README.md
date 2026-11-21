@@ -13,7 +13,7 @@
   <img src="https://komarev.com/ghpvc/?username=athiops&color=8A2BE2&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/athiops?color=FFD700&style=for-the-badge&label=FOLLOWERS" alt="Followers" />
   <img src="https://img.shields.io/github/stars/athiops?color=8A2BE2&style=for-the-badge&label=STARS" alt="Stars" />
-  <a href="mailto:saathithya23@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:athithya@eldrion.in"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 </div>
@@ -39,6 +39,28 @@
     </tr>
   </table>
 </div>
+
+<br/>
+
+<h3 align="center">🚀 What I'm Building</h3>
+
+<div align="center">
+  <p><b>AI/ML • Full-Stack Engineering • Developer Tools</b></p>
+  <p>I’m a Computer Science student and builder focused on turning applied AI research and product ideas into useful software.</p>
+</div>
+
+| Project | Focus |
+| :-- | :-- |
+| [JARVIS-X](https://github.com/athiops/Self-Evolving-Multi-Model-AI-System) | Experimental federated-learning and adaptive-AI foundation |
+| [Hackathon Evaluation Portal](https://github.com/athiops/Hackathon-Evaluation-Portal) | Team, jury, scoring and evaluation workflows |
+| [AI Course Automation Bot](https://github.com/athiops/-AI-Course-Automation-Bot) | Browser-assisted learning and course workflows |
+| [Eldrion Website](https://github.com/athiops/ELDRION_web-) | Website and digital product work for Eldrion |
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/athithyasa/">LinkedIn</a> ·
+  <a href="https://github.com/athiops?tab=repositories">All repositories</a> ·
+  <a href="mailto:athithya@eldrion.in">Email</a>
+</p>
 
 <br/>
 
