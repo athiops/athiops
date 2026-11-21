@@ -80,6 +80,29 @@
 <div align="center">
   <table>
     <tr>
+      <td align="center"><b>⭐ Total Stars Earned</b></td>
+      <td align="center"><b>3</b></td>
+    </tr>
+    <tr>
+      <td align="center"><b>🕒 Total Commits</b></td>
+      <td align="center"><b>500</b></td>
+    </tr>
+    <tr>
+      <td align="center"><b>🔀 Total PRs</b></td>
+      <td align="center"><b>4</b></td>
+    </tr>
+    <tr>
+      <td align="center"><b>⚠️ Total Issues</b></td>
+      <td align="center"><b>2</b></td>
+    </tr>
+    <tr>
+      <td align="center"><b>🏅 Contributed to</b></td>
+      <td align="center"><b>1</b></td>
+    </tr>
+  </table>
+  <br/>
+  <table>
+    <tr>
       <td align="center"><img src="https://github-stats-extended.vercel.app/api/top-langs/?username=athiops&layout=compact&theme=radical&hide_border=true" width="400" alt="Top Languages" /></td>
       <td align="center"><img src="https://github-stats-extended.vercel.app/api?username=athiops&show_icons=true&theme=radical&hide_border=true" width="400" alt="GitHub Stats" /></td>
     </tr>
