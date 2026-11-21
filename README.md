@@ -78,32 +78,11 @@
 
 <h3 align="center">📊 GitHub Stats</h3>
 <div align="center">
-  <table>
-    <tr>
-      <td align="center"><b>⭐ Total Stars Earned</b></td>
-      <td align="center"><b>3</b></td>
-    </tr>
-    <tr>
-      <td align="center" colspan="2">
-        <a href="https://gitshine.com/stats/athiops">
-          <img src="https://gitshine.com/card/athiops" alt="athiops GitHub statistics" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center"><b>🔀 Total PRs</b></td>
-      <td align="center"><b>4</b></td>
-    </tr>
-    <tr>
-      <td align="center"><b>⚠️ Total Issues</b></td>
-      <td align="center"><b>2</b></td>
-    </tr>
-    <tr>
-      <td align="center"><b>🏅 Contributed to</b></td>
-      <td align="center"><b>1</b></td>
-    </tr>
-  </table>
-  <br/>
+  <a href="https://gitshine.com/stats/athiops">
+    <img src="https://gitshine.com/card/athiops" alt="athiops GitHub statistics — live contribution activity" width="100%" />
+  </a>
+  <br/><br/>
+  <p><b>Live contribution activity · All-time statistics · Yearly activity</b></p>
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=athiops&layout=compact&theme=radical&hide_border=true" width="600" alt="Top Languages" />
   <br/><br/>
   <img src="https://raw.githubusercontent.com/athiops/athiops/output/github-contribution-grid-snake.svg" width="800" alt="Contribution Snake" />
