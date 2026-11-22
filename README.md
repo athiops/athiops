@@ -166,3 +166,5 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD700,100:8A2BE2&height=120&section=footer" width="100%"/>
 </div>
+
+[![athiops' GitHub stats](https://gitshine.com/card/athiops?theme=tokyonight)](https://gitshine.com/stats/athiops)
