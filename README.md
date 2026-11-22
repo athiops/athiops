@@ -3,6 +3,8 @@
 <!-- Modern Hero Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:FFD700&height=250&section=header&text=Hello,%20I'm%20Athiops!&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Building%20the%20future%20with%20Code&descAlignY=55&descAlign=62" width="100%"/>
 
+[![athiops' GitHub stats](https://gitshine.com/card/athiops?theme=tokyonight)](https://gitshine.com/stats/athiops)
+
 <!-- Typing SVG -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=git+push+origin+main;Compiling+ideas+into+code...;ACCESS+GRANTED" alt="Typing SVG" />
 
@@ -167,4 +169,4 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD700,100:8A2BE2&height=120&section=footer" width="100%"/>
 </div>
 
-[![athiops' GitHub stats](https://gitshine.com/card/athiops?theme=tokyonight)](https://gitshine.com/stats/athiops)
+
