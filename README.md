@@ -3,8 +3,6 @@
 <!-- Modern Hero Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:FFD700&height=250&section=header&text=Hello,%20I'm%20Athiops!&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Building%20the%20future%20with%20Code&descAlignY=55&descAlign=62" width="100%"/>
 
-[![athiops' GitHub stats](https://gitshine.com/card/athiops?theme=tokyonight)](https://gitshine.com/stats/athiops)
-
 <!-- Typing SVG -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=git+push+origin+main;Compiling+ideas+into+code...;ACCESS+GRANTED" alt="Typing SVG" />
 
@@ -80,11 +78,6 @@
 
 <h3 align="center">📊 GitHub Stats</h3>
 <div align="center">
-  <a href="https://gitshine.com/stats/athiops">
-    <img src="https://gitshine.com/card/athiops" alt="athiops GitHub statistics — live contribution activity" width="100%" />
-  </a>
-  <br/><br/>
-  <p><b>Live contribution activity · All-time statistics · Yearly activity</b></p>
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=athiops&layout=compact&theme=radical&hide_border=true" width="600" alt="Top Languages" />
   <br/><br/>
   <img src="https://raw.githubusercontent.com/athiops/athiops/output/github-contribution-grid-snake.svg" width="800" alt="Contribution Snake" />
